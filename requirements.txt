@@ -3,4 +3,3 @@ pandas
 requests
 Flask
 gunicorn
-sqlite3
