@@ -1,5 +1,3 @@
-pip install --upgrade pip
-pip install --upgrade gunicorn
 import streamlit as st
 import pandas as pd
 import requests
